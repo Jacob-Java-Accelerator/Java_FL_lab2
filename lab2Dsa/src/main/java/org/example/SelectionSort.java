@@ -1,5 +1,7 @@
 package org.example;
 
+
+// o(n**2)
 public class SelectionSort {
 
     public void sort(int[] array) {

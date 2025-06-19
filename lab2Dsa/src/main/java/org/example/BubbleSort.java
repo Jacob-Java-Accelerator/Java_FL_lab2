@@ -1,5 +1,6 @@
 package org.example;
 
+// o(n**2)
 public class BubbleSort {
 
     public void sort(int[] array) {
